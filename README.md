@@ -1,4 +1,6 @@
 # Simple implementation of TOTP for 2FA in Go
+This implementation uses SHA-1 as hash algorithm.
+
 
 ## Build
 ```shell
