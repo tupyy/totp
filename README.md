@@ -12,4 +12,4 @@ go build -o totp main.go
 The secret key must be encoded in base32.
 
 ## Credits
-Based on this blog [https://drewdevault.com/2022/10/18/TOTP-is-easy.html](link).
+Based on this blog [https://drewdevault.com/2022/10/18/TOTP-is-easy.html](https://drewdevault.com/2022/10/18/TOTP-is-easy.html).
